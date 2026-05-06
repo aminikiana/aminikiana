@@ -49,10 +49,10 @@ I work across **Machine Learning, Deep Learning, Computer Vision, NLP**, and **m
 ---
 
 ## 📂 Featured Projects
-- 🔹 **ML Feature Engineering Toolkit** — modular feature engineering utilities  
-- 🔹 **Neural Meta-Feature Generator** — automated meta-feature construction  
-- 🔹 **Vision Pipeline Template** — clean CV pipeline with reproducible structure  
-- 🔹 **NLP Text Modeling Suite** — embeddings + transformers + evaluation  
+- **ML Feature Engineering Toolkit** — modular feature engineering utilities  
+- **Neural Meta-Feature Generator** — automated meta-feature construction  
+- **Vision Pipeline Template** — clean CV pipeline with reproducible structure  
+- **NLP Text Modeling Suite** — embeddings + transformers + evaluation  
 
 ---
 
